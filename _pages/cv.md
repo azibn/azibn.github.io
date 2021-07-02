@@ -8,6 +8,31 @@ nav: true
 
 ## Education
 
-- PhD Astrophysics - University of Warwick (2021-Present)
-- MSc Physics - University College London (2019-2020)
-- BSc (Hons) Physics - Queen Mary, University of London (2016-2019)
+- PhD Astrophysics - University of Warwick (2021 - Present)
+- MSc Physics - University College London (2019 - 2020)
+- BSc (Hons) Physics - Queen Mary, University of London (2016 - 2019)
+
+## Experience
+- Research Assistant - Warwick Business School (Jun 2021 - Present)
+- Earth Observation Data Scientist - University of Leicester (Jan 2021 - Apr 2021)
+	- Supervised by Prof Heiko Balzter and Dr Pedro Rodriguez Veiga
+- Academic Representative (MSc Physics) - University College London (Sep 2019 - Sep 2020)
+- Data Analytics Intern - BP (Jul 2019 - Sep 2019)
+- Ambassador - Institute of Physics (Aug 2018 - Jul 2019)
+- President, Physics Society - Queen Mary Students Union (Aug 2018 - Jul 2019)
+- Consultant - Queen Mary, University of London (Aug 2018 - Dec 2018)
+- Treasurer, Physics Society - Queen Mary Students Union (Aug 2017 - Jul 2018)
+
+## Programming 
+- Python
+- Matlab
+- Fortran
+- Julia
+- MySQL
+- Google Earth Engine, QGIS, etc...
+
+## Conferences/Workshops etc.
+
+#### 2021
+7 Jun - 18 Jun		ESCAPE Summer School for Data Science in Astronomy, Astroparticle and Particle Physics - Annecy, France (Virtual)
+
