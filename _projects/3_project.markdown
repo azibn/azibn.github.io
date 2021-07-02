@@ -5,7 +5,7 @@ description: a photography page that i am trying to revive
 img: /assets/img/7.jpg
 redirect: https://vsco.co/azibn/gallery
 importance: 3
-category: work
+category:
 ---
 
 Every project has a beautiful feature showcase page.
