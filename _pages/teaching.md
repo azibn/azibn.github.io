@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /cv
+title: cv
+description: A brief summary of my career to date.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Education
 
-Organize your courses by years, topics, or universities, however you like!
+- PhD Astrophysics - University of Warwick (2021-Present)
+- MSc Physics - University College London (2019-2020)
+- BSc (Hons) Physics - Queen Mary, University of London (2016-2019)
