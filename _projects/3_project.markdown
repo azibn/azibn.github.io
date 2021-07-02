@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: photography
+description: a photography page that i am trying to revive
 img: /assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://vsco.co/azibn/gallery
 importance: 3
 category: work
 ---
