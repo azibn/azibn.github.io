@@ -34,12 +34,7 @@ nav: true
 ## Conferences/Workshops etc.
 
 #### 2021
-<<<<<<< HEAD
 - 2 Aug - 6 Aug 		TESS Science Conference II - Online
 
 
 - 7 Jun - 18 Jun		ESCAPE Summer School for Data Science in Astronomy, Astroparticle and Particle Physics - Annecy, France (Virtual)
-=======
-7 Jun - 18 Jun: ESCAPE Summer School for Data Science in Astronomy, Astroparticle and Particle Physics - Annecy, France (Virtual)
->>>>>>> 5a3d89c6d322cd70683f0b9564dc7d9e98c458a2
-

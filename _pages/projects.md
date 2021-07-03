@@ -1,11 +1,21 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: personal
+permalink: /personal/
 description:
 nav: true
 horizontal: false
 ---
+
+In my spare time, I often enjoy travelling and photography. A few photos that have been uploaded to vsco is linked below.
+
+I also spend an unhealthy amount of time on Football Manager. 
+
+
+
+
+
+-------
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
